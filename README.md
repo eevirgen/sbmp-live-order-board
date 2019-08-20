@@ -35,6 +35,9 @@ an implementation of a Live Order Board for Silver Bars Marketplace has the foll
 ## Build the app
 * `gradle clean build` (runs the **Unit Tests** and and creates the distribution as `build/libs/sbmp-live-order-board.jar`)
 
+## Main class
+* `com.silverbarsmp.MainKt`
+
 ## Run the app
 * `gradle run`
 * or can be done in an IDE 
