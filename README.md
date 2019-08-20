@@ -33,8 +33,7 @@ an implementation of a Live Order Board for Silver Bars Marketplace has the foll
 * `git clone git@github.com:eevirgen/sbmp-live-order-board.git`
 
 ## Build the app
-* gradle clean build (runs the **Unit Tests** and and creates the distribution)
-    * `build/libs/sbmp-live-order-board.jar`
+* `gradle clean build` (runs the **Unit Tests** and and creates the distribution as `build/libs/sbmp-live-order-board.jar`)
 
 ## Run the app
 * `gradle run`
